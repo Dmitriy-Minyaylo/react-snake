@@ -1,0 +1,9 @@
+.main-area {
+   margin: 0 auto;
+   box-sizing: border-box;
+   border: 5px solid black;
+   box-shadow: 0 0 45px rgb(37, 235, 19); 
+   width: 900px;
+   height: 600px;
+   position: relative;
+}
